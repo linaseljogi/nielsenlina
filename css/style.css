@@ -151,7 +151,7 @@ z-index: 999;
 
 /* Start Blog CSS */
 #blog-area {
-    margin: 60px 0px;
+    margin: 100px 0px;
 }
 .blog-content {
   background: #F2F2F2;
@@ -219,7 +219,7 @@ div#service-area-main {
 
 /* Start Testimornial CSS */
 #testimornial-area{
-  margin: 60px 0;
+  margin: 100px 0;
 }
 h2 {
     color: #666666;
